@@ -4,19 +4,19 @@
     "url": "https://stimg.edutivo.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/stimg.edutivo.com.br.ico",
     "slug": "st-img",
-    "status": "down",
-    "uptime": "68.44%",
-    "uptimeDay": "65.96%",
-    "uptimeWeek": "68.44%",
-    "uptimeMonth": "68.44%",
-    "uptimeYear": "68.44%",
-    "time": 1034,
-    "timeDay": 1201,
-    "timeWeek": 1034,
-    "timeMonth": 1034,
-    "timeYear": 1034,
+    "status": "up",
+    "uptime": "65.75%",
+    "uptimeDay": "61.53%",
+    "uptimeWeek": "65.75%",
+    "uptimeMonth": "65.75%",
+    "uptimeYear": "65.75%",
+    "time": 955,
+    "timeDay": 1073,
+    "timeWeek": 955,
+    "timeMonth": 955,
+    "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-09-16": 490
+      "2025-09-16": 554
     }
   }
 ]
