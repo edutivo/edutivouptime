@@ -6,8 +6,8 @@
     "slug": "st-img",
     "status": "up",
     "uptime": "98.10%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "98.16%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.20%",
     "uptimeMonth": "97.56%",
     "uptimeYear": "98.10%",
     "time": 409,
@@ -16,7 +16,6 @@
     "timeMonth": 426,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-01-14": 4,
       "2026-01-13": 74,
       "2026-01-12": 66,
       "2026-01-08": 41,
