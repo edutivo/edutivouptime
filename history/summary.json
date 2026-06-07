@@ -4,14 +4,14 @@
     "url": "https://stimg.edutivo.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/stimg.edutivo.com.br.ico",
     "slug": "st-img",
-    "status": "down",
-    "uptime": "98.61%",
-    "uptimeDay": "95.71%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "98.61%",
+    "status": "up",
+    "uptime": "98.58%",
+    "uptimeDay": "87.66%",
+    "uptimeWeek": "98.24%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "98.58%",
     "time": 389,
-    "timeDay": 315,
+    "timeDay": 321,
     "timeWeek": 328,
     "timeMonth": 332,
     "timeYear": 389,
@@ -63,7 +63,8 @@
       "2026-05-06": 107,
       "2026-05-08": 75,
       "2026-05-09": 92,
-      "2026-06-06": 62
+      "2026-06-06": 62,
+      "2026-06-07": 116
     }
   }
 ]
